@@ -1,0 +1,19 @@
+{
+    "client_secret": "",
+    "client_id": "",
+    "redirect_uri": "<replit-webaccess-url-here>",
+    "bot_token": "",
+    "bot_invite": "",
+    "authorize_url": "",
+    "authorize_vanity": "Encoders",
+    "owner_ids": [
+        166692371981926400
+    ],
+    "verification_system": false,
+    "verify_role_id": 1260580870977359895,
+    "verify_guild_id": 1175923086202253423,
+    "wl_guilds": [
+        "1175923086202253423"
+    ],
+    "webhook": ""
+}
